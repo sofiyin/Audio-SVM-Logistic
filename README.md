@@ -16,6 +16,7 @@ Este proyecto implementa modelos de **Máquina de Vectores de Soporte (SVM)** y 
 
 ```bash
 pip install numpy pandas matplotlib seaborn librosa cvxopt pywavelets
+```
 
 ## Estructura del Proyecto
 
